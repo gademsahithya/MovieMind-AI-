@@ -1,0 +1,28 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# Provider integrations
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+
+# Environment variables
+python-dotenv
+
+# Vector store / embeddings
+faiss-cpu
+tiktoken
+
+# API server
+fastapi
+uvicorn
+
+# HTTP requests
+requests
+httpx
+
+# Optional but useful
+pydantic

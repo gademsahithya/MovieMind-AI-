@@ -1,0 +1,28 @@
+# Google Gemini
+google-generativeai
+
+# Groq
+langchain-groq
+
+# Mistral
+langchain-mistralai
+mistralai
+
+# Local LLM support
+ollama
+
+# Document loaders for RAG
+pypdf
+beautifulsoup4
+lxml
+
+# Embedding / transformer models
+transformers
+sentence-transformers
+
+# Async file handling
+aiofiles
+
+# Numerical/data utilities
+numpy
+pandas
